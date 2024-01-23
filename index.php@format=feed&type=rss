@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Andy the Wisguy</title>
+		<description><![CDATA[Slacker roommates Andy and Pepe are comical vignettes combining laconic psychedelia, childlike enchantment, drug-fueled hedonism, and impish mischief.]]></description>
+		<link>https://boysclubandy.com/index.php</link>
+		<lastBuildDate>Mon, 28 Aug 2023 03:28:59 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://boysclubandy.com/index.php?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+	</channel>
+</rss>
